@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap'
+);
+img {
+    display: block;
+    margin: 0 auto;
+}
+:root{
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+h1 {
+    text-align: center;
+    margin: 0 auto;
+}
