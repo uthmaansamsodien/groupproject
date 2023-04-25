@@ -1,13 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap'
 );
+
+header {
+
+}
+body {
+    background-image: linear-gradient( #FF7244, #B90D54);
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
 img {
     display: block;
     margin: 0 auto;
 }
-:root{
+h1 {
+    color: #B90D54;
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;
     font-family: 'Sedgwick Ave Display', cursive;
 }
-h1 {
+h2 {
+    font-weight: 200;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+p {
+    text-align: center;
+    margin: 0 auto;
+    color: aliceblue;
+    font-family: 'Carlito', sans-serif;
+}
+li {
+    font-size: 20px;
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+footer {
     text-align: center;
     margin: 0 auto;
 }
